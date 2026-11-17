@@ -1,1 +1,1 @@
-"""renderfarm baseline (single-responsibility pipeline)."""
+"""renderfarm package (single-responsibility pipeline)."""
